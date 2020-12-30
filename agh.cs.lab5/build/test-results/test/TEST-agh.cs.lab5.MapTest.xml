@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.cs.lab5.MapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-15T20:07:29" hostname="LAPTOP-3VERJRAU" time="0.009">
+  <properties/>
+  <testcase name="grassMapRunTest" classname="agh.cs.lab5.MapTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
