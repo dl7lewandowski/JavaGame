@@ -1,12 +1,13 @@
 {
-  "width": 25,
-  "height": 25,
-  "jungle_ratio": 0.01,
-  "number_of_plants": 25,
-  "plants_energy": 10,
-  "start_energy": 100,
-  "number_of_animals": 25,
-  "move_energy": 1,
+
+  "widthX": 15,
+  "heightY": 15,
+  "areaRatio": 0.01,
+  "numberGrass": 25,
+  "grassEnergy": 50,
+  "energy": 200,
+  "numberAnimals": 50,
+  "moveEnergy": 1,
   "delay": 100,
-  "days_before_snapshot": 100
+  "daysBeforeSnap": 100
 }

@@ -1,0 +1,1530 @@
+Day: 0
+Animal living: 
+50
+Animal dead: 
+0
+Grass: 
+50
+Mean life among dead animal: 
+,00
+Mean energy animal: 
+,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7]
+Day: 0
+Animal living: 
+50
+Animal dead: 
+0
+Grass: 
+50
+Mean life among dead animal: 
+,00
+Mean energy animal: 
+,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7]
+Day: 1
+Animal living: 
+25
+Animal dead: 
+25
+Grass: 
+50
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+2,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
+Day: 2
+Animal living: 
+13
+Animal dead: 
+37
+Grass: 
+49
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+9,54
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 7, 7]
+Day: 3
+Animal living: 
+8
+Animal dead: 
+42
+Grass: 
+51
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+15,12
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 7, 7]
+Day: 4
+Animal living: 
+5
+Animal dead: 
+45
+Grass: 
+51
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+33,60
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 7, 7]
+Day: 5
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+52
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+47,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 6
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+53
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+52,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 7
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+57,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 8
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+63,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 9
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+68,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 10
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+73,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 11
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+78,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 12
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+77,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 13
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+83,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 14
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+88,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 15
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+54
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+99,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 16
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+98,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 17
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+104,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 18
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+55
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+109,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 19
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+56
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+108,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 20
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+56
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+113,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 21
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+57
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+112,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 22
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+57
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+117,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 23
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+58
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+116,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 24
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+58
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+122,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 25
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+59
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+121,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 26
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+60
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+120,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 27
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+60
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+125,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 28
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+59
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+136,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 29
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+60
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+135,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 30
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+61
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+134,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 31
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+61
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+140,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 32
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+61
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+145,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 33
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+63
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+144,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 34
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+63
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+149,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 35
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+62
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+161,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 36
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+63
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+160,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 37
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+63
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+165,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 38
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+64
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+170,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 39
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+65
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+175,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 40
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+181,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 41
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+186,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 42
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+191,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 43
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+196,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 44
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+202,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 45
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+65
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+213,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 46
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+212,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 47
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+217,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 48
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+223,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 49
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+228,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 50
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+233,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 51
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+67
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+232,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 52
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+231,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 53
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+230,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 54
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+242,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 55
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+247,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 56
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+252,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 57
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+257,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 58
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+275,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 59
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+66
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+287,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 60
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+67
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+292,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 61
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+291,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 62
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+296,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 63
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+301,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 64
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+313,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 65
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+324,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 66
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+68
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+336,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 67
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+341,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 68
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+69
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+353,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 69
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+70
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+358,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 70
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+70
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+369,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 71
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+70
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+381,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 72
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+71
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+380,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 73
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+72
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+379,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 74
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+73
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+378,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 75
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+74
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+377,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 76
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+74
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+382,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 77
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+75
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+387,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 78
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+393,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 79
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+77
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+398,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 80
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+78
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+403,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 81
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+80
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+402,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 82
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+78
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+420,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 83
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+425,50
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 84
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+430,75
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 85
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+436,00
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 86
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+441,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 87
+Animal living: 
+4
+Animal dead: 
+46
+Grass: 
+80
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+440,25
+Mean children: 
+,00
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 88
+Animal living: 
+5
+Animal dead: 
+46
+Grass: 
+80
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+356,40
+Mean children: 
+,40
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 89
+Animal living: 
+5
+Animal dead: 
+46
+Grass: 
+80
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+360,40
+Mean children: 
+,40
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 90
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+81
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+299,50
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 91
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+80
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+306,83
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 92
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+314,17
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 93
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+79
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+317,33
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 94
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+77
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+328,83
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 95
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+336,17
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 96
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+75
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+347,67
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 97
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+350,83
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 98
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+354,00
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 99
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+361,33
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Day: 100
+Animal living: 
+6
+Animal dead: 
+46
+Grass: 
+76
+Mean life among dead animal: 
+1,00
+Mean energy animal: 
+368,67
+Mean children: 
+,67
+genotype dominate: 
+[0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]

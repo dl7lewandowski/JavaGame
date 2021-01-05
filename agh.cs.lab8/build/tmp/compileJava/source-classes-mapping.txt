@@ -1,0 +1,42 @@
+agh/cs/lab8/IWorldMapElement.java
+ agh.cs.lab8.IWorldMapElement
+agh/cs/lab8/WorldStats.java
+ agh.cs.lab8.WorldStats
+agh/cs/lab8/WorldSimulator.java
+ agh.cs.lab8.WorldSimulator
+agh/cs/lab8/AnimalInfo.java
+ agh.cs.lab8.AnimalInfo
+agh/cs/lab8/DNA.java
+ agh.cs.lab8.DNA
+agh/cs/lab8/MapDirection.java
+ agh.cs.lab8.MapDirection
+ agh.cs.lab8.MapDirection$1
+agh/cs/lab8/RunnerConfig.java
+ agh.cs.lab8.RunnerConfig
+ agh.cs.lab8.RunnerConfig$1
+agh/cs/lab8/AreaWorld.java
+ agh.cs.lab8.AreaWorld
+agh/cs/lab8/Grass.java
+ agh.cs.lab8.Grass
+agh/cs/lab8/Setting.java
+ agh.cs.lab8.Setting
+agh/cs/lab8/AbstractMapWorld.java
+ agh.cs.lab8.AbstractMapWorld
+agh/cs/lab8/Animal.java
+ agh.cs.lab8.Animal
+agh/cs/lab8/Runner.java
+ agh.cs.lab8.Runner
+agh/cs/lab8/WorldConfig.java
+ agh.cs.lab8.WorldConfig
+agh/cs/lab8/UserConfig.java
+ agh.cs.lab8.UserConfig
+agh/cs/lab8/IWorldMaps.java
+ agh.cs.lab8.IWorldMaps
+agh/cs/lab8/Vector2d.java
+ agh.cs.lab8.Vector2d
+agh/cs/lab8/IWorldChangePosition.java
+ agh.cs.lab8.IWorldChangePosition
+agh/cs/lab8/SettingParser.java
+ agh.cs.lab8.SettingParser
+agh/cs/lab8/World.java
+ agh.cs.lab8.World
